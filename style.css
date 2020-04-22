@@ -1,0 +1,26 @@
+body{
+  background-color: blue;
+  font-style: verdana;
+  font-size: 20px;
+  text-decoration: underline;
+  color: white;
+}
+
+button{
+  font-size: 20px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+input[type="text"]{
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+
+select{
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
